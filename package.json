@@ -1,0 +1,27 @@
+{
+  "name": "url-shortener-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Client-side URL Shortener with Material UI, client routing, logging, analytics",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.4",
+    "@mui/material": "^6.1.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
